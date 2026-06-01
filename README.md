@@ -1,2 +1,4 @@
 # analysis_using_SQL
 Analyzed Swiggy restaurant data with SQL and Power BI to identify top-performing restaurants, revenue trends, customer preferences, and key business metrics.
+
+Kolkata and Mumbai are the most competitive markets, with the highest number of restaurants.Chennai and Bangalore have the best ratings (3.8), customers there are happier because restaurants maintain better quality standards. Kolkata has the slowest delivery (68 mins) while Ahmedabad is the fastest (45 mins), a clear operational gap worth noticing. Mumbai charges the most (₹394 avg) while Surat is the cheapest (₹270 avg), pricing directly reflects the city's cost of living. North Indian and Chinese cuisines dominate everywhere, so if someone were opening a new restaurant, these two are the safest bets for maximum orders.
